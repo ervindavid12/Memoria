@@ -9,7 +9,7 @@ window.onload = function () {
       valCarta1 = 0,
       valCarta2 = 0,
       cartasTotales = 24;
-    aciertos = cartasTotales / 2;
+      aciertos = cartasTotales / 2;
   
     document.getElementById("iniciar").addEventListener("click", function () {
       iniciarJuego();
